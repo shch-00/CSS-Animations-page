@@ -1,6 +1,6 @@
 # БЕС.IT - Страница 404
 
-![БЕС.IT 404](preview.png)
+![БЕС.IT 404](https://i.ibb.co/4gnHwZp9/img.png)
 
 ## Описание проекта
 
