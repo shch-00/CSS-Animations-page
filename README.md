@@ -29,15 +29,17 @@
 git clone https://github.com/your-username/besit-404.git
 ```
 
-2. Откройте `index.html` в вашем браузере
+2. Откройте `404.html` в вашем браузере
 
 ## Структура проекта
 
 ```
-├── index.html
-├── styles/
-│   ├── main.scss
-│   └── _animations.scss
-└── assets/
-    └── images/
-```
+├── 404.html
+├── scss/
+│   ├── style.scss
+│   ├── blocks
+│   └── global
+├── css/
+│   └── style.css
+├── images
+└── fonts
